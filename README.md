@@ -11,7 +11,7 @@ Overall, this application simplifies the result management process, saving time 
 
 ** Used NetBeans IDE for developing this application.preferred to use the same for running this application.                  
 ** MySQL Connections are required to connect to the Database.
-Illustration
+
 - Homepage which included buttons for students and admin. Based on the profile they can press the button that will get them to the login page.
 - Teacher can add students, add results, view list of all students.
 - Students can view the result after searching with their roll no.
