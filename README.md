@@ -1,13 +1,13 @@
-This application streamlines student result management for both teachers and students. Teachers can easily:
+This application streamlines student result management for both teachers and students.               
+Teachers can easily:                                                   
+Record and manage student results.                                                                                            
+Calculate grades and generate reports.                                                                                                        
+Track student progress over time.                                                                      
 
-Record and manage student results.
-Calculate grades and generate reports.
-Track student progress over time.
-Students can conveniently:
-
-Access their results using their unique roll number.
-View detailed breakdowns of their performance.
-Overall, this application simplifies the result management process, saving time and effort for both teachers and students.
+Students can conveniently:                                                                                          
+Access their results using their unique roll number.                                                                          
+View detailed breakdowns of their performance.                                                                                                      
+Overall, this application simplifies the result management process, saving time and effort for both teachers and students.                                                
 
 ** Used NetBeans IDE for developing this application.preferred to use the same for running this application.                  
 ** MySQL Connections are required to connect to the Database.
